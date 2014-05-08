@@ -1,7 +1,7 @@
-GTI310
+AudioResampler
 ======
 
-Structures de données multimédias
+A Java command line tool for resampling WAV file, using 8 bits per sample. Achieved through a data structures course.
 
 ## Contexte
 
