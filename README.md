@@ -12,7 +12,7 @@ Par ailleurs, la compagnie aimerait aussi avoir une idée de la qualité de fich
 ## Crédits
 
 * École de technologie supérieure 
-* Trimestre Département de génie logiciel et des Professeur TI
+* Département de génie logiciel et des Professeur TI
 * Automne 2012 
 * Jean-François Franche
 
