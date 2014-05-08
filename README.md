@@ -9,3 +9,10 @@ Votre mandat consiste à développer un filtre audio pour convertir des valeurs 
 
 Par ailleurs, la compagnie aimerait aussi avoir une idée de la qualité de fichiers modifiés dont elle dispose. Vous devrez évaluer le rapport signal à bruit (RSB) des fichiers modifiés par rapport au fichier original (ces fichiers vous sont fournis, vous n’avez pas à les créer). Pour ce faire, vous devrez développer un second filtre audio pour calculer le SNR (Signal to Noise Ratio). Le fichier original servira de référence dans le calcul (voir notes de cours pour la formule du SNR). Vous aurez donc deux petits programmes : un premier qui traite les fichiers originaux, et un second qui évalue le SNR des fichiers modifiés par rapport à l’original.
 
+## Crédits
+
+* École de technologie supérieure 
+* Trimestre Département de génie logiciel et des Professeur TI
+* Automne 2012 
+* Jean-François Franche
+
